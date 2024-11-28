@@ -13,5 +13,7 @@ Bem-vindo ao meu perfil! Sou apaixonado por **tecnologia** e estou em constante 
 
 🔗 **Vamos nos conectar!**
 - [LinkedIn](https://www.linkedin.com/in/enzo-wacker-guinossi/)
+- [Discord](https://discordapp.com/users/276830914695266324)
+
 
 Obrigado por visitar meu perfil! Se tiver alguma dúvida ou quiser trocar ideias, sinta-se à vontade para me chamar. 😊
