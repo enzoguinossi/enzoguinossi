@@ -32,12 +32,12 @@ Bem-vindo ao meu perfil! Sou apaixonado por **tecnologia** e atualmente estou fo
 ### 🌍 Vamos nos conectar:
 
 <p>
-  <a href="https://www.linkedin.com/in/enzo-wacker-guinossi/" target="_blank" style="text-decoration: none; border: none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" style="margin-right: 10px;"/>
-  </a>
-  <a href="https://discordapp.com/users/276830914695266324" target="_blank" style="text-decoration: none; border: none;">
-    <img src="https://img.icons8.com/ios-filled/40/5865F2/discord-logo.png" alt="Discord" width="40" height="40"/>
-  </a>
+  <a href="https://www.linkedin.com/in/enzo-wacker-guinossi/" target="_blank" style="text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="48" height="48"/></a>
+  <a href="https://discordapp.com/users/276830914695266324" target="_blank" style="text-decoration: none;">
+    <img src="https://img.icons8.com/ios-filled/50/5865F2/discord-logo.png" alt="Discord" width="48" height="48"/></a>
+  <a href="https://stackoverflow.com/users/28679254/enzoguinossi" target="_blank" style="text-decoration: none;">
+    <img src="https://img.icons8.com/ios-filled/50/6e7dff/stackoverflow.png" alt="Stack Overflow" width="48" height="48"/></a>
 </p>
 
 
