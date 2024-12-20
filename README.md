@@ -18,6 +18,8 @@ Bem-vindo ao meu perfil! Sou apaixonado por **tecnologia** e atualmente estou fo
 [![HTML5](https://img.icons8.com/color/48/000000/html-5.png)](https://developer.mozilla.org/en-US/docs/Web/HTML) 
 [![CSS3](https://img.icons8.com/color/48/000000/css3.png)](https://developer.mozilla.org/en-US/docs/Web/CSS) 
 [![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)](https://nodejs.org/en/docs/)
+[![Lua](https://img.icons8.com/?size=48&id=vFFJFfHoOHvj&format=png&color=000000)](https://www.lua.org/docs.html)
+
 
 > Estou sempre aberto a aprender novas tecnologias para ampliar meu conhecimento!
 
